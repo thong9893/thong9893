@@ -24,7 +24,7 @@ I adapt quickly and enjoy improving testing practices.
     - MySQL (basic)
     - HTML/CSS (basic)
 
-## 📂 Featured Projects
+## 📂 Projects
 -  [Selenium - Java](https://github.com/thong9893/Selenium-Java)
     
   
