@@ -23,8 +23,11 @@ I adapt quickly and enjoy improving testing practices.
     - Languages: Java (basic), Git (basic)
     - MySQL (basic)
     - HTML/CSS (basic)
- 
- 
+
+## 📂 Featured Projects
+-  [Selenium - Java](https://github.com/thong9893/Selenium-Java)
+    
+  
 ## 📫 Contact Me
 - Email: thong.luminh@gmail.com
  
