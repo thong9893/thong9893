@@ -31,5 +31,6 @@ I adapt quickly and enjoy improving testing practices.
   
 ## 📫 Contact Me
 - Email: thong.luminh@gmail.com
+- LinkedIn : [Lu-Minh-Thong](www.linkedin.com/in/thông-lữ-minh-36870725b)
  
  
