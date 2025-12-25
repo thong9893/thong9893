@@ -26,6 +26,7 @@ I adapt quickly and enjoy improving testing practices.
 
 ## 📂 Projects
 -  [Selenium - Java](https://github.com/thong9893/Selenium-Java)
+-  [Rest Assured - TestNG](https://github.com/thong9893/RestAssured-TestNG)
     
   
 ## 📫 Contact Me
